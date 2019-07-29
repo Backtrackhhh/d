@@ -65,6 +65,14 @@ go to [NODEJS](https://nodejs.org/en/) to get the archive
 ## Run locally
 
 click **New Unity Project.exe**.
+## Features 
+
+* Chat with children easily with avatar
+* Analyze user sentiment based on chat content
+* Visualization and prediction of regional emotional problems
+## Feedback
+*Contact us through email*  2833306508@qq.com
+
 ## License
 
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
