@@ -14,13 +14,73 @@ In the face of growing natural disasters, the project is dedicated to addressing
 ## Setup
 ***
 ### Dependency
+
 - unity v2018.1.3+
 - node v7.0+  
 
-Go to [Unity](https://unity.cn/)
-to download unity
+**Go** to [download unity](https://unity.cn/)
+
 !["download"](img/p1.PNG)
-Use
-`<npm install  
-   npm start>`
+
+**Use**
+```bash
+npm install  
+npm start
+```
 to get node installed at your computer
+
+**OR**
+
+go to [NODEJS](https://nodejs.org/en/) to get the archive
+
+## Code structure
+    
+    |  New Unity Project.exe  
+    │  UnityCrashHandler64.exe  
+    │  UnityPlayer.dll  
+    |  WinPixEventRuntime.dll  
+    │  
+    ├─MonoBleedingEdge  
+    │  ├─EmbedRuntime  
+    |  └─etc  
+    │      └─mono  
+    └─New Unity Project _Data
+    │  app.info
+    .......
+    |
+    |
+    │      IBM.Cloud.SDK.dll  
+    │      UnityEngine.WindModule.xml  
+    |   
+    ├─Plugins  
+    │      libflac-8.dll  
+    ......
+    │      libgcc_s_sjlj-1.dll
+
+    │      
+    └─Resources
+            unity default resources
+            unity_builtin_extra
+
+## Run locally
+
+click **New Unity Project.exe**.
+## Features 
+
+* Chat with children easily with avatar
+* Analyze user sentiment based on chat content
+* Visualization and prediction of regional emotional problems
+## Feedback
+*Contact us through email*  2833306508@qq.com
+
+## License
+
+This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
+
+[Apache Software License (ASL) FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
+## Links
+
+* [IBM Cloud Docs](https://cloud.ibm.com/docs/)
+* [Code Pattern](https://developer.ibm.com/cn/patterns/)
+
+
