@@ -14,13 +14,16 @@ In the face of growing natural disasters, the project is dedicated to addressing
 ## Setup
 ***
 ### Dependency
+
 - unity v2018.1.3+
 - node v7.0+  
 
-Go to [Unity](https://unity.cn/)
-to download unity
+**Go** to [download](https://unity.cn/)
+unity
+
 !["download"](img/p1.PNG)
-Use
+
+**Use**
 ```bash
 npm install  
 npm start
