@@ -18,8 +18,7 @@ In the face of growing natural disasters, the project is dedicated to addressing
 - unity v2018.1.3+
 - node v7.0+  
 
-**Go** to [download](https://unity.cn/)
-unity
+**Go** to [download unity](https://unity.cn/)
 
 !["download"](img/p1.PNG)
 
@@ -40,7 +39,7 @@ This code pattern is licensed under the Apache Software License, Version 2.  Sep
 [Apache Software License (ASL) FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
 # Links
 
-* [IBM Watson Assistant Docs](https://cloud.ibm.com/docs/services/conversation/dialog-build.html#dialog-build)
-* [Blog for IBM Watson Assistant Slots Code Pattern](https://developer.ibm.com/code/2017/09/19/managing-resources-efficiently-watson-conversation-slots/)
+* [IBM Cloud Docs](https://cloud.ibm.com/docs/)
+* [Code Pattern](https://developer.ibm.com/cn/patterns/)
 
 
