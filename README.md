@@ -68,8 +68,14 @@ click **New Unity Project.exe**.
 ## Features 
 
 * Chat with children easily with avatar
+
+![picture](img/P3.PNG)
 * Analyze user sentiment based on chat content
+
+![PICTURE](img/P5.PNG)
 * Visualization and prediction of regional emotional problems
+
+![PICTURE](img/P6.jpg)
 ## Feedback
 *Contact us through email*  2833306508@qq.com
 
