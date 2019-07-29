@@ -26,7 +26,9 @@ npm install
 npm start
 ```
 to get node installed at your computer
+
 **OR**
+
 go to [NODEJS](https://nodejs.org/en/)to get the archive
 # License
 
