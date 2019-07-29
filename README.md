@@ -19,7 +19,7 @@ In the face of growing natural disasters, the project is dedicated to addressing
 
 Go to [Unity](https://unity.cn/)
 to download unity
-!["download"](img/p1.png)
+!["download"](img/p1.PNG)
 Use
 `<npm install  
    npm start>`
