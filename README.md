@@ -34,31 +34,27 @@ to get node installed at your computer
 go to [NODEJS](https://nodejs.org/en/) to get the archive
 
 ## Code structure
-C:.
-│  list.txt
 
-│  New Unity Project (21).exe
-
-│  UnityCrashHandler64.exe
-
+│  New Unity Project (21).exe  
+│  UnityCrashHandler64.exe  
 │  UnityPlayer.dll  
 │  WinPixEventRuntime.dll  
 │  
-├─MonoBleedingEdge
-│  ├─EmbedRuntime
-│  │      mono-2.0-bdwgc.dll
-│  │      MonoPosixHelper.dll
+├─MonoBleedingEdge  
+│  ├─EmbedRuntime  
+│  │      mono-2.0-bdwgc.dll  
+│  │      MonoPosixHelper.dll  
 │  │      
-│  └─etc
-│      └─mono
-│          │  browscap.ini
-│          │  config
+│  └─etc  
+│      └─mono  
+│          │  browscap.ini  
+│          │  config  
 │          │  
-│          ├─2.0
-│          │  │  DefaultWsdlHelpGenerator.aspx
-│          │  │  machine.config
-│          │  │  settings.map
-│          │  │  web.config
+│          ├─2.0  
+│          │  │  DefaultWsdlHelpGenerator.aspx  
+│          │  │  machine.config  
+│          │  │  settings.map  
+│          │  │  web.config  
 │          │  │  
 │          │  └─Browsers
 │          │          Compat.browser
@@ -99,66 +95,15 @@ C:.
     │  sharedassets0.resource
     │  
     ├─Managed
-    │      Assembly-CSharp-firstpass.dll
-    │      Assembly-CSharp-firstpass.pdb
-    │      Assembly-CSharp.dll
-    │      Assembly-CSharp.pdb
-    │      CTNAudio.dll
-    │      CustomMarshalers.dll
-    │      IBM.Cloud.SDK.dll
-    │      IBM.Cloud.SDK.pdb
-    │      Interop.SpeechLib.dll
-    │      Microsoft.CSharp.dll
-    │      Mono.Posix.dll
-    │      Mono.Security.dll
-    │      mscorlib.dll
-    │      Newtonsoft.Json.dll
-    │      RTVoiceUWPBridge.dll
-    │      SALSA.dll
-    │      System.Configuration.dll
-    │      System.Core.dll
-    │      System.dll
-    │      System.Runtime.Serialization.dll
-    │      System.Security.dll
-    │      System.ServiceModel.Internals.dll
-    │      System.Xml.dll
-    │      System.Xml.Linq.dll
-    │      Unity.Analytics.DataPrivacy.dll
-    │      Unity.Analytics.DataPrivacy.pdb
-    │      Unity.Analytics.StandardEvents.dll
-    │      Unity.Analytics.StandardEvents.dll.mdb
-    │      Unity.Analytics.Tracker.dll
-    │      Unity.Analytics.Tracker.dll.mdb
-    │      Unity.TextMeshPro.dll
-    │      Unity.TextMeshPro.pdb
-    │      UnityEngine.AccessibilityModule.dll
-    │      UnityEngine.AccessibilityModule.xml
-    │      UnityEngine.Advertisements.dll
-    │      UnityEngine.AIModule.dll
-   ......
-    │      UnityEngine.WindModule.xml
-    │      UnityEngine.xml
-    │      UnityEngine.XRModule.dll
-    │      UnityEngine.XRModule.xml
-    │      WatsonUnitySDK.dll
-    │      WatsonUnitySDK.pdb
-    │      websocket-sharp.dll
-    │      
-    ├─Plugins
-    │      libflac-8.dll
+    
+    │      IBM.Cloud.SDK.dll  
+    │      UnityEngine.WindModule.xml  
+    |   
+    ├─Plugins  
+    │      libflac-8.dll  
+    ......
     │      libgcc_s_sjlj-1.dll
-    │      libgomp-1.dll
-    │      libid3tag-0.dll
-    │      libogg-0.dll
-    │      libpng16-16.dll
-    │      libsox-3.dll
-    │      libssp-0.dll
-    │      libvorbis-0.dll
-    │      libvorbisenc-2.dll
-    │      libvorbisfile-3.dll
-    │      libwavpack-1.dll
-    │      libwinpthread-1.dll
-    │      zlib1.dll
+
     │      
     └─Resources
             unity default resources
