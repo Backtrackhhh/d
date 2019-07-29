@@ -1,6 +1,6 @@
-#Psychological Assistance After Disaster using IBM Cloud Services and Unity
+# Psychological Assistance After Disaster using IBM Cloud Services and Unity
 ***
-##Introduction
+## Introduction
 ***
 In the face of growing natural disasters, the project is dedicated to addressing the psychological reconstruction of children after disasters. We use the services provided on IBM cloud to achieve dialogue with children, with unity to build avatars, we hope that this avatar chat bot can help us better solve the psychological problems of children after the disaster, and through chat data to make a psychological assessment of children in the region.
 ##Included Components 
