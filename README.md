@@ -41,8 +41,8 @@ C:.
 
 │  UnityCrashHandler64.exe
 
-│  UnityPlayer.dll
-│  WinPixEventRuntime.dll
+│  UnityPlayer.dll  
+│  WinPixEventRuntime.dll  
 │  
 ├─MonoBleedingEdge
 │  ├─EmbedRuntime
