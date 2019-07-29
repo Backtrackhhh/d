@@ -26,6 +26,8 @@ npm install
 npm start
 ```
 to get node installed at your computer
+**OR**
+go to [NODEJS](https://nodejs.org/en/)to get the archive
 # License
 
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
@@ -33,7 +35,6 @@ This code pattern is licensed under the Apache Software License, Version 2.  Sep
 [Apache Software License (ASL) FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
 # Links
 
-* [Demo on youtube](https://youtu.be/6QlAnqSiWvo)
 * [IBM Watson Assistant Docs](https://cloud.ibm.com/docs/services/conversation/dialog-build.html#dialog-build)
 * [Blog for IBM Watson Assistant Slots Code Pattern](https://developer.ibm.com/code/2017/09/19/managing-resources-efficiently-watson-conversation-slots/)
 
