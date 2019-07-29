@@ -34,68 +34,21 @@ to get node installed at your computer
 go to [NODEJS](https://nodejs.org/en/) to get the archive
 
 ## Code structure
-
-│  New Unity Project (21).exe  
-│  UnityCrashHandler64.exe  
-│  UnityPlayer.dll  
-│  WinPixEventRuntime.dll  
-│  
-├─MonoBleedingEdge  
-│  ├─EmbedRuntime  
-│  │      mono-2.0-bdwgc.dll  
-│  │      MonoPosixHelper.dll  
-│  │      
-│  └─etc  
-│      └─mono  
-│          │  browscap.ini  
-│          │  config  
-│          │  
-│          ├─2.0  
-│          │  │  DefaultWsdlHelpGenerator.aspx  
-│          │  │  machine.config  
-│          │  │  settings.map  
-│          │  │  web.config  
-│          │  │  
-│          │  └─Browsers
-│          │          Compat.browser
-│          │          
-│          ├─4.0
-│          │  │  DefaultWsdlHelpGenerator.aspx
-│          │  │  machine.config
-│          │  │  settings.map
-│          │  │  web.config
-│          │  │  
-│          │  └─Browsers
-│          │          Compat.browser
-│          │          
-│          ├─4.5
-│          │  │  DefaultWsdlHelpGenerator.aspx
-│          │  │  machine.config
-│          │  │  settings.map
-│          │  │  web.config
-│          │  │  
-│          │  └─Browsers
-│          │          Compat.browser
-│          │          
-│          └─mconfig
-│                  config.xml
-│                  
-└─New Unity Project (21)_Data
-    │  app.info
-    │  boot.config
-    │  globalgamemanagers
-    │  globalgamemanagers.assets
-    │  level0
-    │  resources.assets
-    │  resources.assets.resS
-    │  resources.resource
-    │  RTVoiceTTSWrapper.exe
-    │  sharedassets0.assets
-    │  sharedassets0.assets.resS
-    │  sharedassets0.resource
-    │  
-    ├─Managed
     
+    |  New Unity Project.exe  
+    │  UnityCrashHandler64.exe  
+    │  UnityPlayer.dll  
+    |  WinPixEventRuntime.dll  
+    │  
+    ├─MonoBleedingEdge  
+    │  ├─EmbedRuntime  
+    |  └─etc  
+    │      └─mono  
+└─New Unity Project _Data
+    │  app.info
+    .......
+    |
+    |
     │      IBM.Cloud.SDK.dll  
     │      UnityEngine.WindModule.xml  
     |   
